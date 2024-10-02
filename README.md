@@ -2,7 +2,8 @@
 
 This **Personal Finance Dashboard** is a web-based application built using Python, Streamlit, and Plotly to help users track their income, expenses, and savings goals. It provides insights into budgeting, spending categories, and financial goals through interactive charts and reports.
 ![Personal Finance Dashboard](image/st1.png)
-
+![Personal Finance Dashboard](image/st2.png)
+![Personal Finance Dashboard](image/st3.png)
 
 ## Features
 
